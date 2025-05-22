@@ -2,10 +2,10 @@
 
 # Cell-resolved analysis of spatially organized cellular architecture using transformer models
 
-TLSformer is a computational tool designed to assist immune researchers in identifying TLS cells/spots and calculating the probability that a cell/spot belongs to TLS regions. Unlike previous methods, TLSformer leverages bidirectional encoder representation from transformers (BERT) and meta-learning to acquire general knowledge from the limited available TLS-related information. This knowledge is then transferred to identify single cells or spots within TLS regions from scRNA-seq or spatial transcriptomics data.
+TLSformer is a computational biology method designed to trace back and identify cells within specific spatial structures in single-cell transcriptomics data by learning from spatial transcriptomics data. In this study, we focused primarily on tertiary lymphoid structures (TLSs) as the key spatial structure of interest. By leveraging TLSformer, we aim to enable precise identification and characterization of cells residing in TLS regions, providing deeper insights into their spatial organization and functional roles. Unlike previous methods, TLSformer leverages transformer model and meta-learning to acquire general knowledge from the limited available specific spatial structures information. This knowledge is then transferred to identify single cells or spots within specific spatial structures from scRNA-seq.
 
 ## Requirements and Installation
-This toolkit is written in both R and Python programming languages. The core BERT and meta-learning algorithm are implemented in Python, while the initial data preparation and functional usage are written in R.
+This toolkit is implemented in both R and Python programming languages. Therefore, users need firstly install both R and Python before using the tool.
 
 ### Installation of TLSformer
 
