@@ -117,7 +117,5 @@ Download the 10x Visium breast cancer pre-trained BERT and demo data from Google
 
 ## Visitor Map
 
-[![ClustrMaps](https://clustrmaps.com/map_v2.png?d=1c66s)](https://clustrmaps.com/site/1c66s)
-
-
+[![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=iHDFwQ1njaQpH7H9VPlfTclJDLARa7o0XwndGjQVGzo&cl=ffffff)](https://clustrmaps.com/site/1c66s)
 
